@@ -113,31 +113,6 @@ graph LR
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-[![Dennis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mydennisee&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)](https://github.com/mydennisee)
-
-</td>
-<td>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mydennisee&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/mydennisee)
-
-</td>
-</tr>
-</table>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mydennisee&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/mydennisee)
-
-</div>
-
----
-
 ## Featured Projects
 
 <table>
