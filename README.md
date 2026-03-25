@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Dennis+Ee+Chi+Ang;AI+Solutions+Architect+%C2%B7+Agentic+AI;From+Whiteboard+to+Boardroom;Agentic+Systems+%C2%B7+LLM+Engineering+%C2%B7+Strategic+AI+Delivery" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Dennis+Ee+Chi+Ang;AI+Solutions+Architect+%C2%B7+Agentic+AI;From+Whiteboard+to+Boardroom;Agentic+Systems+%C2%B7+LLM+Engineering;Strategic+AI+Delivery" alt="Typing SVG" />
 
 <br/>
 
