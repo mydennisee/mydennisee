@@ -60,43 +60,73 @@ Performance & SQL optimisation
 
 ## Delivery Methodology
 
+### 01 — AI Solution Design
+
 ```mermaid
 flowchart LR
-    subgraph S ["  AI Solution Design  "]
-        S1[Problem Framing] --> S2[Architecture]
-        S2 --> S3[Stakeholder Alignment]
-    end
+    A([Problem Framing]) --> B[Architecture Design]
+    B --> C[Stakeholder Alignment]
+    C --> D[Business Case & ROI]
+    D --> E([Delivery Sign-off])
 
-    subgraph C ["  CRISP-DM  "]
-        C1[Business Understanding] --> C2[Data Preparation]
-        C2 --> C3[Modelling & Evaluation]
-    end
+    style A fill:#1f6feb,color:#fff,stroke:#388bfd
+    style B fill:#161b22,color:#8b949e,stroke:#30363d
+    style C fill:#161b22,color:#8b949e,stroke:#30363d
+    style D fill:#161b22,color:#8b949e,stroke:#30363d
+    style E fill:#238636,color:#fff,stroke:#2ea043
+```
 
-    subgraph M ["  MLOps  "]
-        M1[Pipeline & Training] --> M2[Validation]
-        M2 --> M3[Deployment & Monitoring]
-    end
+### 02 — CRISP-DM
 
-    subgraph T ["  AI Tuning  "]
-        T1[Base Model Selection] --> T2[LoRA / QLoRA Fine-tuning]
-        T2 --> T3[Benchmark & Optimise]
-    end
+```mermaid
+flowchart LR
+    A([Business Understanding]) --> B[Data Understanding]
+    B --> C[Data Preparation]
+    C --> D[Modelling]
+    D --> E[Evaluation]
+    E --> F([Deployment])
+    F -.->|Iterate| A
 
-    S --> C --> M --> T
-    T -.->|Continuous Improvement| S
+    style A fill:#1f6feb,color:#fff,stroke:#388bfd
+    style B fill:#161b22,color:#8b949e,stroke:#30363d
+    style C fill:#161b22,color:#8b949e,stroke:#30363d
+    style D fill:#161b22,color:#8b949e,stroke:#30363d
+    style E fill:#161b22,color:#8b949e,stroke:#30363d
+    style F fill:#238636,color:#fff,stroke:#2ea043
+```
 
-    style S1 fill:#161b22,color:#8b949e,stroke:#30363d
-    style S2 fill:#161b22,color:#8b949e,stroke:#30363d
-    style S3 fill:#161b22,color:#8b949e,stroke:#30363d
-    style C1 fill:#161b22,color:#8b949e,stroke:#30363d
-    style C2 fill:#161b22,color:#8b949e,stroke:#30363d
-    style C3 fill:#161b22,color:#8b949e,stroke:#30363d
-    style M1 fill:#161b22,color:#8b949e,stroke:#30363d
-    style M2 fill:#161b22,color:#8b949e,stroke:#30363d
-    style M3 fill:#161b22,color:#8b949e,stroke:#30363d
-    style T1 fill:#1f6feb,color:#fff,stroke:#388bfd
-    style T2 fill:#1f6feb,color:#fff,stroke:#388bfd
-    style T3 fill:#238636,color:#fff,stroke:#2ea043
+### 03 — MLOps
+
+```mermaid
+flowchart LR
+    A([Data Pipeline]) --> B[Model Training]
+    B --> C[Validation & Testing]
+    C --> D[Deployment]
+    D --> E([Monitoring])
+    E -.->|Retrain| B
+
+    style A fill:#1f6feb,color:#fff,stroke:#388bfd
+    style B fill:#161b22,color:#8b949e,stroke:#30363d
+    style C fill:#161b22,color:#8b949e,stroke:#30363d
+    style D fill:#161b22,color:#8b949e,stroke:#30363d
+    style E fill:#238636,color:#fff,stroke:#2ea043
+```
+
+### 04 — AI Tuning
+
+```mermaid
+flowchart LR
+    A([Base Model Selection]) --> B[Dataset Curation]
+    B --> C[LoRA / QLoRA Fine-tuning]
+    C --> D[Benchmark & Evaluation]
+    D --> E([Optimise & Deploy])
+    E -.->|Refine| C
+
+    style A fill:#1f6feb,color:#fff,stroke:#388bfd
+    style B fill:#161b22,color:#8b949e,stroke:#30363d
+    style C fill:#161b22,color:#8b949e,stroke:#30363d
+    style D fill:#161b22,color:#8b949e,stroke:#30363d
+    style E fill:#238636,color:#fff,stroke:#2ea043
 ```
 
 ---
@@ -129,30 +159,6 @@ flowchart LR
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-
----
-
-## Agentic AI — System Architecture
-
-```mermaid
-graph LR
-    A([User / System Trigger]) --> B(Orchestrator Agent)
-    B --> C[Tool: SQL Query]
-    B --> D[Tool: RAG / VectorDB]
-    B --> E[Tool: Code Executor]
-    B --> F[Tool: LLM Scorer]
-    C & D & E & F --> G(Response Synthesizer)
-    G --> H([Output / Action])
-
-    style A fill:#21262d,color:#c9d1d9,stroke:#30363d
-    style B fill:#1f6feb,color:#fff,stroke:#388bfd
-    style G fill:#238636,color:#fff,stroke:#2ea043
-    style H fill:#21262d,color:#c9d1d9,stroke:#30363d
-    style C fill:#161b22,color:#8b949e,stroke:#30363d
-    style D fill:#161b22,color:#8b949e,stroke:#30363d
-    style E fill:#161b22,color:#8b949e,stroke:#30363d
-    style F fill:#161b22,color:#8b949e,stroke:#30363d
-```
 
 ---
 
