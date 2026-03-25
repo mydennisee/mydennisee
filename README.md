@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Dennis+Ee+Chi+Ang;AI+Solutions+Architect+%C2%B7+Agentic+AI;From+Whiteboard+to+Boardroom;RTX+5090+%C2%B7+LoRA+%C2%B7+RAG+%C2%B7+Multi-Agent;Open+to+New+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Dennis+Ee+Chi+Ang;AI+Solutions+Architect+%C2%B7+Agentic+AI;From+Whiteboard+to+Boardroom;Agentic+Systems+%C2%B7+LLM+Engineering+%C2%B7+Strategic+AI+Delivery;Open+to+New+Opportunities" alt="Typing SVG" />
 
 <br/>
 
@@ -14,13 +14,13 @@
 
 ---
 
-> **5+ years shipping AI end-to-end — from messy data to boardroom decisions.**
-> I don't just build models, I own problems: architecture, business case, stakeholder buy-in, and delivery.
-> Now going deeper on agentic AI with a personal RTX 5090 GPU lab, and completing an MBA at University of Malaya.
+> **Defines the problem, architects the solution, owns the outcome.**
+> Five years of applied AI across regulated industries — from data pipeline to the executive suite.
+> MBA candidate, University of Malaya.
 
 ---
 
-## What I Build
+## Capabilities
 
 <table>
 <tr>
@@ -36,7 +36,7 @@ Prompt engineering & benchmarking
 </td>
 <td align="center" width="33%">
 
-### 💡 AI Solutions
+### 🎯 Strategic AI Delivery
 End-to-end solution design & architecture
 Explainable AI & governance
 Executive & board communication
@@ -56,6 +56,49 @@ Performance & SQL optimisation
 </td>
 </tr>
 </table>
+
+---
+
+## Delivery Methodology
+
+```mermaid
+flowchart LR
+    subgraph S ["  AI Solution Design  "]
+        S1[Problem Framing] --> S2[Architecture]
+        S2 --> S3[Stakeholder Alignment]
+    end
+
+    subgraph C ["  CRISP-DM  "]
+        C1[Business Understanding] --> C2[Data Preparation]
+        C2 --> C3[Modelling & Evaluation]
+    end
+
+    subgraph M ["  MLOps  "]
+        M1[Pipeline & Training] --> M2[Validation]
+        M2 --> M3[Deployment & Monitoring]
+    end
+
+    subgraph T ["  AI Tuning  "]
+        T1[Base Model Selection] --> T2[LoRA / QLoRA Fine-tuning]
+        T2 --> T3[Benchmark & Optimise]
+    end
+
+    S --> C --> M --> T
+    T -.->|Continuous Improvement| S
+
+    style S1 fill:#161b22,color:#8b949e,stroke:#30363d
+    style S2 fill:#161b22,color:#8b949e,stroke:#30363d
+    style S3 fill:#161b22,color:#8b949e,stroke:#30363d
+    style C1 fill:#161b22,color:#8b949e,stroke:#30363d
+    style C2 fill:#161b22,color:#8b949e,stroke:#30363d
+    style C3 fill:#161b22,color:#8b949e,stroke:#30363d
+    style M1 fill:#161b22,color:#8b949e,stroke:#30363d
+    style M2 fill:#161b22,color:#8b949e,stroke:#30363d
+    style M3 fill:#161b22,color:#8b949e,stroke:#30363d
+    style T1 fill:#1f6feb,color:#fff,stroke:#388bfd
+    style T2 fill:#1f6feb,color:#fff,stroke:#388bfd
+    style T3 fill:#238636,color:#fff,stroke:#2ea043
+```
 
 ---
 
@@ -114,14 +157,14 @@ graph LR
 
 ---
 
-## Featured Projects
+## Selected Work
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 Agentic AI Sandbox
-Autonomous multi-agent architectures. LoRA / QLoRA fine-tuning of LLMs & VLMs. Benchmarking RTX 5090 vs on-premise GPU vs CPU — measured 2–5× speed improvement.
+### 🤖 Agentic Systems Research
+Autonomous multi-agent architectures with LoRA / QLoRA fine-tuning on dedicated GPU infrastructure. Focused on production-grade agentic system design and LLM/VLM deployment.
 
 `Python` `CUDA` `HuggingFace` `LoRA` `QLoRA`
 
@@ -129,7 +172,7 @@ Autonomous multi-agent architectures. LoRA / QLoRA fine-tuning of LLMs & VLMs. B
 <td width="33%" valign="top">
 
 ### 🔍 Intelligent Risk Analytics
-K-Means segmentation + threshold tuning → **~25% reduction in false positives** without sacrificing detection. Presented to C-suite and regulators with full explainability.
+Deployed segmentation and threshold optimisation methodology resulting in **~25% reduction in false positives**. Presented to C-suite and regulatory bodies with full model explainability.
 
 `PySpark` `K-Means` `SHAP` `Hadoop` `CRISP-DM`
 
@@ -137,7 +180,7 @@ K-Means segmentation + threshold tuning → **~25% reduction in false positives*
 <td width="33%" valign="top">
 
 ### 📊 Predictive Scoring Pipeline
-3-phase ML scoring system (prevention · intervention · recovery) targeting **5–10% reduction in target flow rate**. Full A/B test design and pilot validation.
+Three-phase ML scoring system across prevention, intervention, and recovery. Targeted **5–10% reduction in flow rate**. Delivered with full A/B test design, pilot validation, and stakeholder sign-off.
 
 `XGBoost` `SMOTE` `SHAP` `A/B Testing` `Python`
 
@@ -150,11 +193,9 @@ K-Means segmentation + threshold tuning → **~25% reduction in false positives*
 ## Currently
 
 ```text
-🔭  Building   →  Agentic AI systems on RTX 5090 (autonomous agents, VLM fine-tuning)
-📚  Studying   →  MBA @ University of Malaya, specialising in Business Analytics
-⚡  Exploring  →  Multi-agent orchestration · GPU benchmarking · LLM fine-tuning
-🏢  Current    →  AI Centre of Excellence
-💼  Status     →  Open to new opportunities — let's build something great
+Research      →  Agentic AI architecture · LLM/VLM fine-tuning · Multi-agent systems
+Education     →  MBA, University of Malaya — Business Analytics
+Position      →  AI Centre of Excellence
 ```
 
 ---
@@ -163,6 +204,6 @@ K-Means segmentation + threshold tuning → **~25% reduction in false positives*
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mydennis-ee)
 
-*AI Solutions Architect · Open to new opportunities · Let's build something great.*
+*Available for strategic AI engagements.*
 
 </div>
