@@ -198,7 +198,7 @@ Three-phase ML scoring system across prevention, intervention, and recovery. Tar
 ## Currently
 
 ```text
-Research      →  Agentic AI architecture · LLM/VLM fine-tuning · Multi-agent systems
+Building      →  Agentic AI systems · LLM/VLM fine-tuning · Multi-agent deployment
 Education     →  MBA, University of Malaya — Business Analytics
 Position      →  AI Centre of Excellence
 ```
