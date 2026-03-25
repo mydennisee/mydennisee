@@ -61,73 +61,16 @@ Performance & SQL optimisation
 ## Delivery Methodology
 
 ### 01 — AI Solution Design
-
-```mermaid
-flowchart LR
-    A([Problem Framing]) --> B[Architecture Design]
-    B --> C[Stakeholder Alignment]
-    C --> D[Business Case & ROI]
-    D --> E([Delivery Sign-off])
-
-    style A fill:#1f6feb,color:#fff,stroke:#388bfd
-    style B fill:#161b22,color:#8b949e,stroke:#30363d
-    style C fill:#161b22,color:#8b949e,stroke:#30363d
-    style D fill:#161b22,color:#8b949e,stroke:#30363d
-    style E fill:#238636,color:#fff,stroke:#2ea043
-```
+![AI Solution Design](https://mermaid.ink/img/Zmxvd2NoYXJ0IExSCiAgICBBKFtQcm9ibGVtIEZyYW1pbmddKSAtLT4gQltBcmNoaXRlY3R1cmUgRGVzaWduXQogICAgQiAtLT4gQ1tTdGFrZWhvbGRlciBBbGlnbm1lbnRdCiAgICBDIC0tPiBEW0J1c2luZXNzIENhc2UgJiBST0ldCiAgICBEIC0tPiBFKFtEZWxpdmVyeSBTaWduLW9mZl0pCiAgICBzdHlsZSBBIGZpbGw6IzFmNmZlYixjb2xvcjojZmZmLHN0cm9rZTojMzg4YmZkCiAgICBzdHlsZSBCIGZpbGw6IzE2MWIyMixjb2xvcjojOGI5NDllLHN0cm9rZTojMzAzNjNkCiAgICBzdHlsZSBDIGZpbGw6IzE2MWIyMixjb2xvcjojOGI5NDllLHN0cm9rZTojMzAzNjNkCiAgICBzdHlsZSBEIGZpbGw6IzE2MWIyMixjb2xvcjojOGI5NDllLHN0cm9rZTojMzAzNjNkCiAgICBzdHlsZSBFIGZpbGw6IzIzODYzNixjb2xvcjojZmZmLHN0cm9rZTojMmVhMDQz)
 
 ### 02 — CRISP-DM
-
-```mermaid
-flowchart LR
-    A([Business Understanding]) --> B[Data Understanding]
-    B --> C[Data Preparation]
-    C --> D[Modelling]
-    D --> E[Evaluation]
-    E --> F([Deployment])
-    F -.->|Iterate| A
-
-    style A fill:#1f6feb,color:#fff,stroke:#388bfd
-    style B fill:#161b22,color:#8b949e,stroke:#30363d
-    style C fill:#161b22,color:#8b949e,stroke:#30363d
-    style D fill:#161b22,color:#8b949e,stroke:#30363d
-    style E fill:#161b22,color:#8b949e,stroke:#30363d
-    style F fill:#238636,color:#fff,stroke:#2ea043
-```
+![CRISP-DM](https://mermaid.ink/img/Zmxvd2NoYXJ0IExSCiAgICBBKFtCdXNpbmVzcyBVbmRlcnN0YW5kaW5nXSkgLS0+IEJbRGF0YSBVbmRlcnN0YW5kaW5nXQogICAgQiAtLT4gQ1tEYXRhIFByZXBhcmF0aW9uXQogICAgQyAtLT4gRFtNb2RlbGxpbmddCiAgICBEIC0tPiBFW0V2YWx1YXRpb25dCiAgICBFIC0tPiBGKFtEZXBsb3ltZW50XSkKICAgIEYgLS4tPnxJdGVyYXRlfCBBCiAgICBzdHlsZSBBIGZpbGw6IzFmNmZlYixjb2xvcjojZmZmLHN0cm9rZTojMzg4YmZkCiAgICBzdHlsZSBCIGZpbGw6IzE2MWIyMixjb2xvcjojOGI5NDllLHN0cm9rZTojMzAzNjNkCiAgICBzdHlsZSBDIGZpbGw6IzE2MWIyMixjb2xvcjojOGI5NDllLHN0cm9rZTojMzAzNjNkCiAgICBzdHlsZSBEIGZpbGw6IzE2MWIyMixjb2xvcjojOGI5NDllLHN0cm9rZTojMzAzNjNkCiAgICBzdHlsZSBFIGZpbGw6IzE2MWIyMixjb2xvcjojOGI5NDllLHN0cm9rZTojMzAzNjNkCiAgICBzdHlsZSBGIGZpbGw6IzIzODYzNixjb2xvcjojZmZmLHN0cm9rZTojMmVhMDQz)
 
 ### 03 — MLOps
-
-```mermaid
-flowchart LR
-    A([Data Pipeline]) --> B[Model Training]
-    B --> C[Validation & Testing]
-    C --> D[Deployment]
-    D --> E([Monitoring])
-    E -.->|Retrain| B
-
-    style A fill:#1f6feb,color:#fff,stroke:#388bfd
-    style B fill:#161b22,color:#8b949e,stroke:#30363d
-    style C fill:#161b22,color:#8b949e,stroke:#30363d
-    style D fill:#161b22,color:#8b949e,stroke:#30363d
-    style E fill:#238636,color:#fff,stroke:#2ea043
-```
+![MLOps](https://mermaid.ink/img/Zmxvd2NoYXJ0IExSCiAgICBBKFtEYXRhIFBpcGVsaW5lXSkgLS0+IEJbTW9kZWwgVHJhaW5pbmddCiAgICBCIC0tPiBDW1ZhbGlkYXRpb24gJiBUZXN0aW5nXQogICAgQyAtLT4gRFtEZXBsb3ltZW50XQogICAgRCAtLT4gRShbTW9uaXRvcmluZ10pCiAgICBFIC0uLT58UmV0cmFpbnwgQgogICAgc3R5bGUgQSBmaWxsOiMxZjZmZWIsY29sb3I6I2ZmZixzdHJva2U6IzM4OGJmZAogICAgc3R5bGUgQiBmaWxsOiMxNjFiMjIsY29sb3I6IzhiOTQ5ZSxzdHJva2U6IzMwMzYzZAogICAgc3R5bGUgQyBmaWxsOiMxNjFiMjIsY29sb3I6IzhiOTQ5ZSxzdHJva2U6IzMwMzYzZAogICAgc3R5bGUgRCBmaWxsOiMxNjFiMjIsY29sb3I6IzhiOTQ5ZSxzdHJva2U6IzMwMzYzZAogICAgc3R5bGUgRSBmaWxsOiMyMzg2MzYsY29sb3I6I2ZmZixzdHJva2U6IzJlYTA0Mw==)
 
 ### 04 — AI Tuning
-
-```mermaid
-flowchart LR
-    A([Base Model Selection]) --> B[Dataset Curation]
-    B --> C[LoRA / QLoRA Fine-tuning]
-    C --> D[Benchmark & Evaluation]
-    D --> E([Optimise & Deploy])
-    E -.->|Refine| C
-
-    style A fill:#1f6feb,color:#fff,stroke:#388bfd
-    style B fill:#161b22,color:#8b949e,stroke:#30363d
-    style C fill:#161b22,color:#8b949e,stroke:#30363d
-    style D fill:#161b22,color:#8b949e,stroke:#30363d
-    style E fill:#238636,color:#fff,stroke:#2ea043
-```
+![AI Tuning](https://mermaid.ink/img/Zmxvd2NoYXJ0IExSCiAgICBBKFtCYXNlIE1vZGVsIFNlbGVjdGlvbl0pIC0tPiBCW0RhdGFzZXQgQ3VyYXRpb25dCiAgICBCIC0tPiBDW0xvUkEgLyBRTG9SQSBGaW5lLXR1bmluZ10KICAgIEMgLS0+IERbQmVuY2htYXJrICYgRXZhbHVhdGlvbl0KICAgIEQgLS0+IEUoW09wdGltaXNlICYgRGVwbG95XSkKICAgIEUgLS4tPnxSZWZpbmV8IEMKICAgIHN0eWxlIEEgZmlsbDojMWY2ZmViLGNvbG9yOiNmZmYsc3Ryb2tlOiMzODhiZmQKICAgIHN0eWxlIEIgZmlsbDojMTYxYjIyLGNvbG9yOiM4Yjk0OWUsc3Ryb2tlOiMzMDM2M2QKICAgIHN0eWxlIEMgZmlsbDojMTYxYjIyLGNvbG9yOiM4Yjk0OWUsc3Ryb2tlOiMzMDM2M2QKICAgIHN0eWxlIEQgZmlsbDojMTYxYjIyLGNvbG9yOiM4Yjk0OWUsc3Ryb2tlOiMzMDM2M2QKICAgIHN0eWxlIEUgZmlsbDojMjM4NjM2LGNvbG9yOiNmZmYsc3Ryb2tlOiMyZWEwNDM=)
 
 ---
 
