@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Dennis+Ee+Chi+Ang;AI+Solutions+Architect+%C2%B7+Agentic+AI;From+Whiteboard+to+Boardroom;Agentic+Systems+%C2%B7+LLM+Engineering+%C2%B7+Strategic+AI+Delivery;Open+to+New+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Dennis+Ee+Chi+Ang;AI+Solutions+Architect+%C2%B7+Agentic+AI;From+Whiteboard+to+Boardroom;Agentic+Systems+%C2%B7+LLM+Engineering+%C2%B7+Strategic+AI+Delivery" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mydennis--ee-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mydennis-ee)
 [![Email](https://img.shields.io/badge/Email-mydennis.ee%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mydennis.ee@gmail.com)
 [![Location](https://img.shields.io/badge/Kuala%20Lumpur-Malaysia-009B77?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Kuala+Lumpur)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-green?style=flat-square&logo=briefcase&logoColor=white)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=mydennisee&style=flat-square&color=58A6FF&label=Profile+Views)](https://github.com/mydennisee)
 
 </div>
