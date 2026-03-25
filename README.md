@@ -153,6 +153,7 @@ K-Means segmentation + threshold tuning → **~25% reduction in false positives*
 🔭  Building   →  Agentic AI systems on RTX 5090 (autonomous agents, VLM fine-tuning)
 📚  Studying   →  MBA @ University of Malaya, specialising in Business Analytics
 ⚡  Exploring  →  Multi-agent orchestration · GPU benchmarking · LLM fine-tuning
+🏢  Current    →  AI Centre of Excellence
 💼  Status     →  Open to new opportunities — let's build something great
 ```
 
