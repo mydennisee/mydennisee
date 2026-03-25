@@ -14,8 +14,8 @@
 ---
 
 > **5+ years building production AI in regulated banking & telco.**
-> Co-presented an enhanced AML/CFT methodology to Bank Negara Malaysia — every decision explainable, every threshold quantifiable.
-> Now running an RTX 5090 GPU lab and completing an MBA at University of Malaya to lead AI strategy at the enterprise level.
+> Co-presented an enhanced AML/CFT methodology to regulator, every decision explainable, every threshold quantifiable.
+> Now running an GPU lab and completing an MBA at University of Malaya to lead AI strategy at the enterprise level.
 
 ---
 
