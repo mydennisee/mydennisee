@@ -1,21 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Dennis+Ee+Chi+Ang;Senior+Data+Scientist+%C2%B7+Agentic+AI;From+Whiteboard+to+Boardroom;RTX+5090+%C2%B7+LoRA+%C2%B7+RAG+%C2%B7+Multi-Agent" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Dennis+Ee+Chi+Ang;AI+Solutions+Architect+%C2%B7+Agentic+AI;From+Whiteboard+to+Boardroom;RTX+5090+%C2%B7+LoRA+%C2%B7+RAG+%C2%B7+Multi-Agent;Open+to+New+Opportunities" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mydennis--ee-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mydennis-ee)
 [![Email](https://img.shields.io/badge/Email-mydennis.ee%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mydennis.ee@gmail.com)
 [![Location](https://img.shields.io/badge/Kuala%20Lumpur-Malaysia-009B77?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Kuala+Lumpur)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-green?style=flat-square&logo=briefcase&logoColor=white)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=mydennisee&style=flat-square&color=58A6FF&label=Profile+Views)](https://github.com/mydennisee)
 
 </div>
 
 ---
 
-> **5+ years building production AI in regulated banking & telco.**
-> Co-presented an enhanced AML/CFT methodology to regulator, every decision explainable, every threshold quantifiable.
-> Now running an GPU lab and completing an MBA at University of Malaya to lead AI strategy at the enterprise level.
+> **5+ years shipping AI end-to-end — from messy data to boardroom decisions.**
+> I don't just build models, I own problems: architecture, business case, stakeholder buy-in, and delivery.
+> Now going deeper on agentic AI with a personal RTX 5090 GPU lab, and completing an MBA at University of Malaya.
 
 ---
 
@@ -35,11 +36,11 @@ Prompt engineering & benchmarking
 </td>
 <td align="center" width="33%">
 
-### 🏦 Financial AI
-AML/CFT analytics & fraud detection
-Credit & collections scoring (XGBoost)
-Explainable AI with SHAP
-Regulatory stakeholder management
+### 💡 AI Solutions
+End-to-end solution design & architecture
+Explainable AI & governance
+Executive & board communication
+Business case development & ROI framing
 A/B test design & pilot validation
 
 </td>
@@ -127,16 +128,16 @@ Autonomous multi-agent architectures. LoRA / QLoRA fine-tuning of LLMs & VLMs. B
 </td>
 <td width="33%" valign="top">
 
-### 🏦 AML/CFT Analytics Framework
-K-Means segmentation + Tukey IQR threshold tuning → **~25% reduction in false positives** without sacrificing detection coverage. Co-presented to Bank Negara Malaysia.
+### 🔍 Intelligent Risk Analytics
+K-Means segmentation + threshold tuning → **~25% reduction in false positives** without sacrificing detection. Presented to C-suite and regulators with full explainability.
 
 `PySpark` `K-Means` `SHAP` `Hadoop` `CRISP-DM`
 
 </td>
 <td width="33%" valign="top">
 
-### 📊 Collections Scoring System
-3-phase XGBoost scoring (prevention · collection · recovery) targeting **5–10% delinquency flow reduction**. Full A/B test design and pilot validation.
+### 📊 Predictive Scoring Pipeline
+3-phase ML scoring system (prevention · intervention · recovery) targeting **5–10% reduction in target flow rate**. Full A/B test design and pilot validation.
 
 `XGBoost` `SMOTE` `SHAP` `A/B Testing` `Python`
 
@@ -151,8 +152,8 @@ K-Means segmentation + Tukey IQR threshold tuning → **~25% reduction in false 
 ```text
 🔭  Building   →  Agentic AI systems on RTX 5090 (autonomous agents, VLM fine-tuning)
 📚  Studying   →  MBA @ University of Malaya, specialising in Business Analytics
-⚡  Exploring  →  Multi-agent orchestration · GPU benchmarking · Model lifecycle mgmt
-🏦  At Work    →  AI Centre of Excellence, AmBank (M) Berhad
+⚡  Exploring  →  Multi-agent orchestration · GPU benchmarking · LLM fine-tuning
+💼  Status     →  Open to new opportunities — let's build something great
 ```
 
 ---
@@ -161,6 +162,6 @@ K-Means segmentation + Tukey IQR threshold tuning → **~25% reduction in false 
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mydennis-ee)
 
-*Building AI that ships to production — from whiteboard to boardroom.*
+*AI Solutions Architect · Open to new opportunities · Let's build something great.*
 
 </div>
