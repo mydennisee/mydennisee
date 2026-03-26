@@ -120,7 +120,7 @@ Autonomous multi-agent architectures with LoRA / QLoRA fine-tuning on dedicated 
 <td width="33%" valign="top">
 
 ### 🔍 Intelligent Risk Analytics
-Deployed segmentation and threshold optimisation methodology resulting in **~25% reduction in false positives**. Presented to C-suite and regulatory bodies with full model explainability.
+Deployed segmentation and threshold optimisation methodology resulting in **41% reduction in alert volume** and **35% reduction in workload per analyst**. Presented to C-suite and regulatory bodies with full model explainability.
 
 `PySpark` `K-Means` `SHAP` `Hadoop` `CRISP-DM`
 
